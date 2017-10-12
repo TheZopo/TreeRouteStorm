@@ -1,9 +1,9 @@
 TreeRouteStorm
 ===
-TreeRouteStorm is a router script for PHPStorm built-in web server that displays the files index like Apache web server do. It's allow you to have only one global configuration and easily navigate in your folders.
+TreeRouteStorm is a router script for PHPStorm built-in web server that displays the files index like Apache web server do. It allows you to have only one global configuration and easily navigate in your folders.
 
 ## Installation
-TreeRouteStorm allows you to use a localy or remotly stored font and list of icons.
+TreeRouteStorm allows you to use a locally or remotly stored font and list of icons.
 Download the `assets/` folder if you want to use the locally stored configuration.
 
 * Place the script (and the assets folder) in your workspace directory.
